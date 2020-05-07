@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.head-buttons a{
+    padding: 1px;
+line-height: 18px;
+font-weight: 350px;
+color: green;
+}
+.home{
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: center;
+background-color: cornflowerblue;
+}
+/* #home{
+        border: 2px solid blue;
+        border-radius: 40px; !important
+}
+.menu a{
+    padding: 10px 2px 5px 10px; 
+} */
+ /* .slider{
+    max-width: fit-content; 
+    margin: 20px 0px 10px 0px;
+}  */
+/* @media only screen and (max-width:600px){
+    .slider{
+        width: 400px;
+    }
+} */
+.intro{
+    text-align: center;
+    font-size: larger;
+    /* margin: 50px 50px; */
+    color: rgba(61, 94, 12, 0.89);
+}
+.paragraphs{
+    margin: 70px 50px;
+    text-align: justify;
+    color: grey;
+    font-size: large;
+    font-weight: small;
+}
+.counters {
+    background-color: rgb(64, 82, 240);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgba(255, 255, 255, 0.993);
+    /* width: 100%; */
+    /* height: 340px; */
+    font-size: x-large;
+
+}
+.whatweblue{
+    color: cornflowerblue;
+
+}
+.whatwe{
+    background-color:rgba(128, 128, 128, 0.123);
+    width: 100%;
+    height: 180px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+    color: forestgreen;
+}
+.imageblue{
+    color: cornflowerblue;
+}
+.gallery{
+    color: green;
+    text-align: center;
+}
+/* .pics{
+    margin: 40px 0px 90px 20px;
+
+} */
+.lastline
+{
+    /* color: rgb(0, 255, 0); */
+    color: forestgreen;
+}
+.monthly{
+    color: rgb(0, 255, 0);
+}
+
+.moredetails{
+    color: blue;
+}
+.boxes{
+    text-align: center;
+    
+}
+.box{
+    /* border: 2px solid whitesmoke; */
+    box-shadow: 5px 10px 10px 5px lightgray;
+
+}
+.sad{
+    background-color: white;
+    border: 1px solid whitesmoke;
+    box-shadow: 5px 10px 10px 5px lightgray;
+    margin: 10px auto 20px;
+}
+.four{
+    border: 1px solid gainsboro;
+    box-sizing: border-box;
+      
+}
+.heading{
+    padding: 2px 85px 2px 20px;
+    margin-bottom: 10px;
+    
+}
+.headingtwo{
+    padding: 2px 20px 2px 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.headingthree{
+    padding: 2px 72px 2px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.headingfour{
+    padding: 2px 60px 2px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
